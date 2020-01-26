@@ -1,5 +1,9 @@
 ## Mockup (HTML/CSS)
 
+recreate the following mockup
+
+![mockup](mockup.png "mockup")
+
 ### Hints
 - Background color: #f1f1f1
 - Container max width: 1000px
@@ -9,7 +13,7 @@
     clear: both;
 }```
 
-## Imgage Links
+## Image Links
 - https://www.w3schools.com/w3images/mountains.jpg
 - https://www.w3schools.com/w3images/lights.jpg
 - https://www.w3schools.com/w3images/nature.jpg
